@@ -43,7 +43,7 @@ https://github.com/nrj/heroku-buildpack-imagemagick-webp
 # Installation
 ## Clone Repo & Installation dependencies
 ```bash
-🦄 git clone https://github.com/XTG-BRUTAL/BOT-OF-BRUTAL.git
+🦄 git clone https://github.com/XTG-BRUTAL/Xtreme-Bot.git
 🦄 cd Doge-Bot
 🦄 npm start
 ```
@@ -60,7 +60,7 @@ https://github.com/nrj/heroku-buildpack-imagemagick-webp
 🦄 pkg install ffmpeg -y 
 🦄 pkg install wget
 🦄 pkg install imagemagick -y
-🦄 git clone https://github.com/XTG-BRUTAL/BOT-OF-BRUTAL
+🦄 git clone https://github.com/XTG-BRUTAL/Xtreme-Bot
 🦄 cd Doge-Bot
 🦄 npm install
 🦄 npm start
@@ -82,4 +82,4 @@ My Whatsapp Group👇
 
 # Thanks To
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Brutal`](https://github.com/XTG-BRUTAL/BOT-OF-BRUTAL)
+* [`Brutal`](https://github.com/XTG-BRUTAL/Xtreme-Bot)
